@@ -3,6 +3,12 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Mac file
+.DS_Store
+
+# File to hold API keys
+api_keys.py
+
 # C extensions
 *.so
 
