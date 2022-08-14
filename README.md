@@ -39,9 +39,9 @@ First, a heat map displaying the humidity for every city from Part 1 was created
 
 ## Analysis
 
-* In general, temperatures decrease as you move further away from the equator.
-* The highest temperatures don't seem to be at the equator but slightly north, roughly 20 to 40 degrees latitude.
-* In the Southern Hemisphere, wind speeds seem to decrease as you move closer to the equator. However, this is only a very slight correlation.
+* In general, temperatures decrease as you move further away from the equator. This can be seen from all three Latitude vs Max Temperature plots below. This trend is further evidenced by regression analysis. When comparing Latitude to Max Temperature, we obtain $r^2$ values of 0.50 and 0.64 in the Northern and Southern Hemispheres respectively indicating moderate correlation.
+* As seen in the first Latitude vs Max Temperature plot below, the highest temperatures don't seem to occur at the equator but slightly north, roughly 20 to 40 degrees latitude.
+* In the Southern Hemisphere, wind speeds seem to decrease as you move closer to the equator, see regression analysis. However, this is only a very slight correlation.
 * Overall, temperature is the only metric that has a clear relationship when compared to latitude. When looking at humidity, cloudiness, and wind speed, latitude has little or no effect.
 
 ## Resources
