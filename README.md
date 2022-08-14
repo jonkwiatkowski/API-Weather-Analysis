@@ -27,7 +27,7 @@ Next, the linear regression for each relationship was computed. This time, the p
 
 First, a heat map displaying the humidity for every city from Part 1 was created. Then, the list of cities was narrowed to represent an ideal weather condition. 
 
-  * A max temperature lower than 80 degrees but higher than 70.
+  * A max temperature lower than 78 degrees but higher than 60.
 
   * Wind speed between 5 and 20 mph.
 
